@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'webbanxe'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19C047A5772C4208A87AEED0F0C71409 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43635A287FA24784A9CCAA5A9AEA98F7 }}
           package: .
